@@ -9,7 +9,7 @@ I'm a passionate Software Developer  with a focus on Python  development.<br>   
 - Email:   aruljothinanjappan12@gmail.com<br><br>
 - LinkedIn:   www.linkedin.com/in/aruljothi-nanjappanutm<br><br> <br><br><br>
    Thanks for visiting my profile!
-    <br><br> Feel free to explore my repositories, open issues, and contribute to projects. <br><br><br>    Let's build something great together! 😄<br><br><br><br><br><br><br>
+    <br><br> Feel free to explore my repositories, open issues, and contribute to projects. <br><br><br>    Let's build something great together! 😄<br><br>
 
 
 
