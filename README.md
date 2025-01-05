@@ -22,8 +22,8 @@ I'm a passionate Software Developer  with a focus on Python  development.<br>   
 
 <br><br>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aruljo55&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aruljo55&theme=dark&hide_border=false)<br/><br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br><br>
@@ -31,9 +31,9 @@ I'm a passionate Software Developer  with a focus on Python  development.<br>   
 
 <br><br>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aruljo55&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aruljo55&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aruljo55&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<br><br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
