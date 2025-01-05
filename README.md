@@ -1,14 +1,33 @@
 
 # 💫 About Me:<br>  Hi there, I'm Aruljothi.N 👋<br>  <br>  <br> 
-Welcome to my GitHub profile!<br>  <br> <br>  <br>  I'm a passionate Software Developer  with a focus on Python  development.<br>   <br>  <br>  <br>  <br><br>👨‍💻 About Me<br>  I am pursuing an MCA at Gobi Arts and Science College, Gobichettipalayam. I am currently working on the Forum Selection co-curricular activity, which ensures that the selection process is inclusive, providing equal opportunities for all students. The implementation proposes the use of technology to streamline the selection process and provide real-time data and feedback. Additionally, we aim to ensure that the co-curricular selection system aligns with the college’s broader educational objectives and values, contributing to the institution’s mission.<br><br><br>  👯 I’m open to collaborating on projects related to Python, data science, and software engineering.<br><br>📚 I'm always looking to improve my skills and contribute to open-source.<br><br>📈 Leetcode Status<br>                https://leetcode.com/u/Aruljothi_55/<br><br>📈 HackerranK Status<br>                https://www.hackerrank.com/profile/aruljothinanjap1<br><br>             <br><br><br>  📫 How to Reach Me<br>        <br>  - Email:   aruljothinanjappan12@gmail.com<br><br>  - LinkedIn:   www.linkedin.com/in/aruljothi-nanjappanutm<br><br> <br><br><br>    Thanks for visiting my profile! <br><br>    Feel free to explore my repositories, open issues, and contribute to projects. <br><br><br>    Let's build something great together! 😄<br><br><br><br><br><br><br>
+Welcome to my GitHub profile!<br>  <br> <br>  <br> 
+I'm a passionate Software Developer  with a focus on Python  development.<br>   <br>  <br>  <br>  <br><br>👨‍💻 About Me<br>  I am pursuing an MCA at Gobi Arts and Science College, Gobichettipalayam. I am currently working on the Forum Selection co-curricular activity, which ensures that the selection process is inclusive, providing equal opportunities for all students. The implementation proposes the use of technology to streamline the selection process and provide real-time data and feedback. Additionally, we aim to ensure that the co-curricular selection system aligns with the college’s broader educational objectives and values, contributing to the institution’s mission.<br><br><br>  👯 I’m open to collaborating on projects related to Python, data science, and software engineering.<br><br>📚 I'm always looking to improve my skills and contribute to open-source.<br><br>
+📈 Leetcode Status<br>https://leetcode.com/u/Aruljothi_55/<br><br>
+📈 HackerranK Status<br> https://www.hackerrank.com/profile/aruljothinanjap1<br><br>             <br><br><br> 
+
+📫 How to Reach Me<br>        <br> 
+- Email:   aruljothinanjappan12@gmail.com<br><br>
+- LinkedIn:   www.linkedin.com/in/aruljothi-nanjappanutm<br><br> <br><br><br>
+   Thanks for visiting my profile!
+    <br><br> Feel free to explore my repositories, open issues, and contribute to projects. <br><br><br>    Let's build something great together! 😄<br><br><br><br><br><br><br>
+
+
+
 
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aruljo55&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aruljo55&theme=radical&no-frame=false&no-bg=false&margin-w=4)
