@@ -1,7 +1,7 @@
 
-# 💫 About Me:<br>  Hi there, I'm Aruljothi.N 👋<br>  <br>  <br> 
-Welcome to my GitHub profile!<br>  <br> <br>  <br> 
-I'm a passionate Software Developer  with a focus on Python  development.<br>   <br>  <br>  <br>  <br><br>👨‍💻 About Me<br>  I am pursuing an MCA at Gobi Arts and Science College, Gobichettipalayam. I am currently working on the Forum Selection co-curricular activity, which ensures that the selection process is inclusive, providing equal opportunities for all students. The implementation proposes the use of technology to streamline the selection process and provide real-time data and feedback. Additionally, we aim to ensure that the co-curricular selection system aligns with the college’s broader educational objectives and values, contributing to the institution’s mission.<br><br><br>  👯 I’m open to collaborating on projects related to Python, data science, and software engineering.<br><br>📚 I'm always looking to improve my skills and contribute to open-source.<br><br>
+# 💫 About Me:<br>  Hi there, I'm Aruljothi.N 👋<br>
+Welcome to my GitHub profile!<br>  <br> 
+I'm a passionate Software Developer  with a focus on Python  development.  <br><br>👨‍💻 About Me<br>  I am pursuing an MCA at Gobi Arts and Science College, Gobichettipalayam. I am currently working on the Forum Selection co-curricular activity, which ensures that the selection process is inclusive, providing equal opportunities for all students. The implementation proposes the use of technology to streamline the selection process and provide real-time data and feedback. Additionally, we aim to ensure that the co-curricular selection system aligns with the college’s broader educational objectives and values, contributing to the institution’s mission.<br><br>👯 I’m open to collaborating on projects related to Python, data science, and software engineering.<br><br>📚 I'm always looking to improve my skills and contribute to open-source.<br><br>
 📈 Leetcode Status<br>https://leetcode.com/u/Aruljothi_55/<br><br>
 📈 HackerranK Status<br> https://www.hackerrank.com/profile/aruljothinanjap1<br><br>             <br><br><br> 
 
