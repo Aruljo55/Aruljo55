@@ -8,7 +8,7 @@
   👯 I’m open to collaborating on projects related to Python, data science, and software engineering.<br><br>📚 I'm always looking to improve my skills and contribute to open-source.<br><br>📈 Leetcode Status<br>                https://leetcode.com/u/Aruljothi_55/<br><br>📈 HackerranK Status<br>                https://www.hackerrank.com/profile/aruljothinanjap1<br><br>📈 GitHub Status<br>                https://github.com/Aruljo55<br><br>
   📫 How to Reach Me<br>        
   - Email:   aruljothinanjappan12@gmail.com<br>
-  - LinkedIn:   www.linkedin.com/in/aruljothi-nanjappanutm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br><br> <br><br>
+  - LinkedIn:   www.linkedin.com/in/aruljothi-nanjappanutm<br><br> <br><br>
     Thanks for visiting my profile! <br>
     Feel free to explore my repositories, open issues, and contribute to projects. <br>
 
