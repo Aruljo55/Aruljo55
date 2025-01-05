@@ -22,8 +22,7 @@ I'm a passionate Software Developer  with a focus on Python  development.  <br><
 
 <br><br>
 # 📊 GitHub Stats:
-<center>
-![](https://github-readme-stats.vercel.app/api?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</center><br/><br><br>
+![](https://github-readme-stats.vercel.app/api?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aruljo55&theme=dark&hide_border=false)<br/><br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
