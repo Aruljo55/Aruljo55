@@ -28,10 +28,6 @@
 
 
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/<your-username>/<your-repository>/blob/output/contribution-grid-snake.svg)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
