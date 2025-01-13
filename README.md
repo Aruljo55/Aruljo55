@@ -25,6 +25,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aruljo55&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
+
+
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/<your-username>/<your-repository>/blob/output/contribution-grid-snake.svg)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
