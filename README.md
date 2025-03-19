@@ -1,113 +1,139 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Aruljothi+N+👋;Welcome+to+my+GitHub+Profile!;Python+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
+  <!-- Typing effect with expressive emojis -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Aruljothi+N+👨‍💻;Welcome+to+my+GitHub+Profile!;Python+Developer+💻;Open-Source+Enthusiast+🌱" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌟 About Me  
-I’m a passionate **Software Developer** with a strong focus on **Python development**. Currently pursuing my **MCA at Gobi Arts and Science College, Gobichettipalayam**, I’m actively working on a **Forum Selection co-curricular activity** project. This initiative aims to streamline the selection process using technology, ensuring inclusivity, real-time data, and alignment with the college’s educational objectives.  
+<!-- Background image of a tech-themed, 3D-oriented backdrop -->
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2020/11/11/05/35/circuit-5722745_960_720.jpg" alt="3D Technology" width="100%" height="300px" />
+</p>
 
-I’m always eager to collaborate on projects related to **Python, Data Science, and Software Engineering**. I’m also committed to improving my skills and contributing to **open-source communities**.  
-
----
-
-### 🛠️ Tech Stack  
-Here are the tools and technologies I work with:  
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-%2384B9F2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-%23FF6F61?style=for-the-badge&logo=earth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project-Forum+Selection-%2300C4CC?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Coding Profiles  
-Check out my progress on these platforms:  
+### 🌟 **About Me - The Developer Journey**  
 
-<div align="center">
-  <a href="https://leetcode.com/u/Aruljothi_55/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+👋 Hello! I'm **Aruljothi N**, a passionate **Python Developer** 🐍 and a deep enthusiast of **Data Science** 📊, **AI** 🤖, and **Open-Source Contribution** 🌍. I'm currently pursuing my **MCA** at **Gobi Arts and Science College**, Gobichettipalayam, where I’m working on the **Forum Selection System**.
+
+#### 🚀 **Mission**  
+I aim to create **smart software solutions** that push the boundaries of technology to make life easier for everyone. My current project is to build a **Forum Selection System** that uses technology to make the process **more inclusive**, **transparent**, and **efficient**.
+
+#### 🎯 **Future Goals**  
+- 💡 Build **AI-powered applications**
+- 📈 Contribute to **large-scale open-source projects**
+- 🌐 Learn **Blockchain** and **Cloud Computing**
+
+---
+
+### 🛠️ **Tech Stack**  
+
+🚀 Here's the set of tools I work with to bring ideas to life:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🎨 **My Projects**  
+Some exciting projects I’ve worked on:
+
+1. **Forum Selection System**  
+   📍 A **Python-based forum selection system** designed to make the selection process **transparent** and **efficient**.  
+   🔗 [Check it out here](https://github.com/Aruljo55/ForumSelection)
+
+2. **Data Science Portfolio**  
+   📍 **Machine learning models**, data exploration, and data visualization.  
+   🔗 [Check it out here](https://github.com/Aruljo55/DataSciencePortfolio)
+
+3. **Portfolio Website**  
+   📍 A **personal portfolio website** built with Python and HTML showcasing my projects and resume.  
+   🔗 [Check it out here](https://github.com/Aruljo55/PortfolioWebsite)
+
+---
+
+### 📊 **GitHub Stats**  
+
+Here's an overview of my **GitHub activity**:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aruljo55&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruljo55&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruljo55&theme=radical&hide_border=true&layout=compact" />
+</p>
+
+---
+
+### 🐍 **Contribution Snake**  
+Track my **green squares** as I continue to contribute to GitHub:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aruljo55/Aruljo55/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🏆 **GitHub Trophies**  
+
+My **GitHub trophies** that show my achievements and contributions:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aruljo55&theme=radical&no-frame=true&margin-w=4" />
+</p>
+
+---
+
+### ✨ **Motivational Quote**  
+
+Here's a **dev quote** to inspire you:
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 🔝 **Top Contributed Repositories**  
+
+My **most contributed repositories**:
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aruljo55&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+### 🌱 **Let’s Connect!**  
+I’d love to connect and collaborate on **exciting tech projects**:
+
+- **Email**: [aruljothinanjappan12@gmail.com](mailto:aruljothinanjappan12@gmail.com)  
+- **LinkedIn**: [Aruljothi Nanjappan](https://www.linkedin.com/in/aruljothi-nanjappanutm)  
+- **Twitter**: [@Aruljothi_Dev](https://twitter.com/Aruljothi_Dev)
+
+---
+
+### 🌟 **Thanks for Visiting!**  
+Feel free to explore my repositories and contribute to any of my ongoing projects. Let’s build something amazing together! 😄
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Aruljo55&icon=4&color=13" />
   </a>
-  <a href="https://www.hackerrank.com/profile/aruljothinanjap1">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://neetcode.io/">
-    <img src="https://img.shields.io/badge/NeetCode-000000?style=for-the-badge&logo=neetcode&logoColor=white" alt="NeetCode" />
-  </a>
-</div>
-
----
-
-### 📈 GitHub Stats  
-Here’s a snapshot of my GitHub activity:  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aruljo55&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-### 🐍 Contribution Snake  
-Check out my contribution graph eating up my green squares!  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aruljo55/Aruljo55/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
----
-
-### 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aruljo55&theme=aura&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### ✍️ Random Dev Quote  
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-### 🔝 Top Contributed Repo  
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aruljo55&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
----
-
-### 📫 Let’s Connect!  
-Feel free to reach out to me:  
-
-<div align="center">
-  <a href="mailto:aruljothinanjappan12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/aruljothi-nanjappanutm">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
-### 🌟 Thanks for Visiting!  
-Feel free to explore my repositories, open issues, and contribute to projects. Let’s build something amazing together! 😄  
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aruljo55&icon=4&color=13" alt="Visitor Count" />
-</div>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
