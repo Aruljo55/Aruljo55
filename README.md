@@ -52,7 +52,7 @@ me.say_hi()
         <img src="https://github-readme-stats.vercel.app/api?username=Aruljo55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Aruljothi's GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=Aruljo55&theme=tokyonight&hide_border=true&background=0D1117" alt="Aruljothi's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aruljo55&theme=dark&hide_border=false)" />
       </td>
     </tr>
   </table>
