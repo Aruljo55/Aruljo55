@@ -52,7 +52,7 @@ me.say_hi()
         <img src="https://github-readme-stats.vercel.app/api?username=Aruljo55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Aruljothi's GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aruljo55&theme=tokyonight&hide_border=true&background=0D1117" alt="Aruljothi's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Aruljo55&theme=tokyonight&hide_border=true&background=0D1117" alt="Aruljothi's GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -98,7 +98,7 @@ me.say_hi()
 <h2 align="center">🔍 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Aruljo55&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aruljo55&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <h2 align="center">📫 Connect With Me</h2>
@@ -127,12 +127,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aruljo55&style=flat-square&color=6A5ACD" alt="Profile views" />
-</div>
-
-<h2 align="center">🎮 Snake eating my contribution graph</h2>
-
-<div align="center">
-  <img src="https://github.com/Aruljo55/Aruljo55/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
