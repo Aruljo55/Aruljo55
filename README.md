@@ -16,6 +16,7 @@ Here are the tools and technologies I work with:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,tkinter,mysql,js,pandas,numpy,git,github" /><br>
+  <img src="https://i.imgur.com/3JwV9Mz.gif" width="200" alt="Tech Stack">
 </div>
 
 ---
