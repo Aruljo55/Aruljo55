@@ -1,5 +1,8 @@
-💫 Hi there, I'm Aruljothi N 👋  
-Welcome to my GitHub profile!  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Aruljothi+N+👋;Welcome+to+my+GitHub+Profile!;Python+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
 
 ### 🚀 About Me  
 I’m a passionate **Software Developer** with a strong focus on **Python development**. Currently pursuing my **MCA at Gobi Arts and Science College, Gobichettipalayam**, I’m actively working on a **Forum Selection co-curricular activity** project. This initiative aims to streamline the selection process using technology, ensuring inclusivity, real-time data, and alignment with the college’s educational objectives.  
@@ -41,6 +44,13 @@ Here’s a snapshot of my GitHub activity:
 ![](https://github-readme-stats.vercel.app/api?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aruljo55&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruljo55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+---
+
+### 🐍 Contribution Snake  
+Check out my contribution graph eating up my green squares!  
+
+![Snake Animation](https://raw.githubusercontent.com/Aruljo55/Aruljo55/output/github-contribution-grid-snake.svg)
 
 ---
 
