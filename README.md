@@ -39,3 +39,6 @@
 [![](https://visitcount.itsvg.in/api?id=Aruljo55&icon=4&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![GitHub Snake Light](https://raw.githubusercontent.com/your-Aruljo55/your-Aruljo55/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/your-Aruljo55/your-Aruljo55/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
