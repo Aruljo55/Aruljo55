@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aruljothi+N;%F0%9F%92%BB+SoftWare+Developer;%F0%9F%8C%9F+MCA+Student;%F0%9F%9A%80+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aruljothi+N;%F0%9F%92%BB+SoftWare+Engineer;%F0%9F%8C%9F+MCA+Student;%F0%9F%9A%80+Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <p align="left">
   <h2>🧙‍♂️ About Me</h2>
   <p>
-    I'm a passionate software developer pursuing my MCA at Gobi Arts and Science College. Currently, I'm building a Forum Selection System for co-curricular activities that promotes inclusivity and equal opportunities for all students.
+    I'm a passionate software engineer pursuing my MCA at Gobi Arts and Science College. Currently, I'm building a Forum Selection System for co-curricular activities that promotes inclusivity and equal opportunities for all students.
   </p>
 </p>
 
@@ -21,7 +21,7 @@
 class AruljothiN:
     def __init__(self):
         self.name = "Aruljothi N"
-        self.role = "Software Developer"
+        self.role = "Software Engineer"
         self.education = "MCA @ Gobi Arts and Science College"
         self.language_spoken = ["Tamil", "English"]
         self.current_project = "Forum Selection System"
