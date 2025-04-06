@@ -165,9 +165,8 @@ me = Developer()
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://github.com/Aruljo55/Aruljo55/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
