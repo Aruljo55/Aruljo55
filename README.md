@@ -167,16 +167,18 @@ me = Developer()
 <br>
 
 <div align="center">
-  <!-- GitHub contribution snake animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aruljo55/Aruljo55/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aruljo55/Aruljo55/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Aruljo55/Aruljo55/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
 </div>
