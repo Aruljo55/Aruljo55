@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs at midnight every day
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,16 +13,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate Snake
+        uses: Platane/snk@v2
         with:
           github_user_name: Aruljo55
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: dist
